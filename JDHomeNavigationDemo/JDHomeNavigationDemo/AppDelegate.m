@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  FBKVODemo
+//  JDHomeNavigationDemo
 //
-//  Created by Lyh on 2017/10/27.
-//  Copyright © 2017年 xmhccf. All rights reserved.
+//  Created by Lyh on 2018/1/10.
+//  Copyright © 2018年 xmhccf. All rights reserved.
 //
 
 #import "AppDelegate.h"
