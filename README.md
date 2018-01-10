@@ -1,2 +1,1 @@
-# FBKVODemo
-facebook - KVOController使用Demo
+模仿京东首页导航栏效果
